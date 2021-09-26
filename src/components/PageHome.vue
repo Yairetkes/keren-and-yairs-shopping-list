@@ -1,5 +1,5 @@
 <template>
-  <div>Hello from page-home</div>
+  <div>A new branch is here</div>
 </template>
 
 <script>
